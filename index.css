@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	min-height: 100vh;
+	scroll-behavior: smooth;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(24, 83, 172);
+	font-weight: bold;
+}
+
+.body-c {
+	justify-content: center;
+	text-align: center;
+	padding-top: 17rem;
+}
